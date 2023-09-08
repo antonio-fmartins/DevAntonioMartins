@@ -33,12 +33,12 @@ export default function RootLayout({ children }) {
                 <div className="w-full flex flex-col items-end gap-8 mb-8  overflow-hidden">
                   <NavBar />
                   {children}
-                  <Analytics />
                 </div>
               </div>
             </section>
           </AppContextProvider>
         </Providers>
+        <Analytics />
       </body>
     </html>
   );
