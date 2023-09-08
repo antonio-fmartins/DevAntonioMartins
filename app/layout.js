@@ -5,6 +5,7 @@ import Providers from "./providers";
 import ThemeSwitcher from "./ThemeSwitcher";
 import NavMobile from "@/components/NavMobile/NavMobile";
 import { AppContextProvider } from "@/context/AppContext";
+import { Analytics } from '@vercel/analytics/react';
 
 
 export const metadata = {
@@ -32,6 +33,7 @@ export default function RootLayout({ children }) {
                 <div className="w-full flex flex-col items-end gap-8 mb-8  overflow-hidden">
                   <NavBar />
                   {children}
+                  <Analytics />
                 </div>
               </div>
             </section>
