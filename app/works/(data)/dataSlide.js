@@ -5,7 +5,7 @@ export const dataSlide = [
       desc:"A project I'm proud of, clean code and 100% of my audit. My portfolio shows my current knowledge of the different features in the react library and Next.js framework. In my GitHub repository you can see the entire code and evaluate my knowledge. ",
       skills:"HTLM5, CSS3, JavaScript, React.js, Next.js, Tailwind",
       img:"/myPortfolioProject.png",
-      url:"",
+      url:"https://github.com/antonio-fmartins/DevAntonioMartins",
     },
     {
       id:2,
