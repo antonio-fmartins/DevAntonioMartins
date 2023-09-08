@@ -4,7 +4,7 @@ export const aboutBox = [
       color:"#F7FAFC",
       icon:<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"stroke-width="2.5" stroke="#E1B10E" height="2.3rem" > <path stroke-linecap="round"stroke-linejoin="round"d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5"/></svg>,
       title:"Expertise in Web Technologies",
-      desc:"I bring a deep understanding of front-end and back-end technologies, including HTML5, CSS3, JavaScript, and various frameworks such as React and Node.js. My ability to effectively utilize these tools allows me to create responsive, user-friendly, and dynamic websites that cater to modern user expectations." ,
+      desc:"I bring a deep understanding of front-end and back-end technologies, including HTML5, CSS3, JavaScript, JavaScript library such as React and SQL. My ability to effectively utilize these tools allows me to create responsive, user-friendly, and dynamic websites that cater to modern user expectations." ,
     },
     {
       id:2,
@@ -13,7 +13,7 @@ export const aboutBox = [
     </svg>
     ,
       title:"Problem-Solving Abilities",
-      desc:"Throughout my career, I have tackled complex challenges and found innovative solutions. I thrive in troubleshooting issues, optimizing website performance, and addressing compatibility concerns across different devices and browsers, ensuring a seamless online presence for users." ,
+      desc:"I'm a sharp problem solver, adept at dissecting issues and swiftly generating effective solutions. My keen analytical skills and pragmatic approach make you a go-to resource for tackling challenges head-on." ,
     },
     {
       id:3,
