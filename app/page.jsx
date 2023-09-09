@@ -48,7 +48,7 @@ export default function Home() {
                         </span>
                         <div className="">
                           <h4 className="font-medium text-[16px] mb-2">{item.title}</h4>
-                          <p className="text-xs text-justify text-slate-600 leading-normal">
+                          <p className="text-xs text-justify text-slate-500 leading-normal">
                             {item.desc}
                           </p>
                         </div>
