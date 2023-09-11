@@ -17,14 +17,12 @@ const Experience = () => {
         {/*single-content */}
         <h4 className="text-sm text-slate-500">2011-2023</h4>
         <h4 className="text-[14px] font-light text-justify indent-7  ">
-          With more than a decade of experience in the field of optics, I have
-          accumulated a vast knowledge and skills in the sector. Starting as an
-          optical technician and working my way up to optical store manager in
-          Portugal and Brazil. I also had the opportunity to lead teams in
-          recognized multinationals, such as Rodenstock and Optovision. My
-          professional trajectory has provided me with a deep understanding of
-          the dynamics of the optical industry, as well as the ability to manage
-          and motivate teams to achieve exceptional results.
+        With more than a decade of experience in optics, I possess extensive knowledge 
+        and skills in the field. Beginning as an optical technician, I worked my way up 
+        to become an optical store manager in both Portugal and Brazil, and have successfully 
+        led teams in renowned multinational companies like Rodenstock and Optovision. 
+        My professional journey has given me a thorough grasp of the dynamics of the optical 
+        industry, and I excel in motivating and managing teams to achieve outstanding outcomes.
         </h4>
         <p className="text-[14px] font-extralight">Portugal - Italy - Brazil</p>
       </div>
