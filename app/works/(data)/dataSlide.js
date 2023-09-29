@@ -47,4 +47,12 @@ export const dataSlide = [
       img:"/5project.png",
       url:"https://github.com/antonio-fmartins/Todo-App-React",
     },
+    {
+      id:7,
+      title:"Carhub",
+      desc:"In this project I started using the web development tool Typescript.  Built with Next.js and Tailwind, this is a front-end project simulating car rental.",
+      skills:"HTLM5, CSS3, JavaScript,TypeScript, ReactJS, Next.js",
+      img:"/6project.png",
+      url:"https://github.com/antonio-fmartins/Carhub_rentcar",
+    },
   ]
